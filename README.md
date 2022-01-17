@@ -1,1 +1,1 @@
-# template-web_scraping-RSS-Netflix
+# template-RSS-Netflix
